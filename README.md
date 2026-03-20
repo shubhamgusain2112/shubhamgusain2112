@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shubham Gusain - @shubhamgusain2112
-- 👀 I’m interested in Data Analytics and Web-Dev
-- 🌱 I’m currently learning Data Analytics using R and Python along with Data visualization 
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently pursuing a masters in Data Science @ Leiden University
 - 📫 How to reach me: shubhamgusain2112@gmail.com or https://shubhamgusain2112.github.io/Portfolio/Contact.html
 
 <!---
