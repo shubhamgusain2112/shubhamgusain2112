@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shubham Gusain - @shubhamgusain2112
-- 👀 I’m interested in Data Science
 - 🌱 I’m currently pursuing a masters in Data Science @ Leiden University
 - 📫 How to reach me: shubhamgusain2112@gmail.com or https://www.linkedin.com/in/shubhamgusain/
 
